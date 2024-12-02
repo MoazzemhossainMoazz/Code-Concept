@@ -1,0 +1,14 @@
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\bin\Debug\net8.0\Check palindrome value.exe
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\bin\Debug\net8.0\Check palindrome value.deps.json
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\bin\Debug\net8.0\Check palindrome value.runtimeconfig.json
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\bin\Debug\net8.0\Check palindrome value.dll
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\bin\Debug\net8.0\Check palindrome value.pdb
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.dll
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\refint\Check palindrome value.dll
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.pdb
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\Check palindrome value.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\Check palindrome value\Check palindrome value\obj\Debug\net8.0\ref\Check palindrome value.dll

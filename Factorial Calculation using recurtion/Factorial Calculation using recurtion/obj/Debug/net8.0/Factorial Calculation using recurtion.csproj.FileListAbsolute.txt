@@ -1,0 +1,14 @@
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\bin\Debug\net8.0\Factorial Calculation using recurtion.exe
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\bin\Debug\net8.0\Factorial Calculation using recurtion.deps.json
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\bin\Debug\net8.0\Factorial Calculation using recurtion.runtimeconfig.json
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\bin\Debug\net8.0\Factorial Calculation using recurtion.dll
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\bin\Debug\net8.0\Factorial Calculation using recurtion.pdb
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.dll
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\refint\Factorial Calculation using recurtion.dll
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.pdb
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\Factorial Calculation using recurtion.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\Factorial Calculation using recurtion\Factorial Calculation using recurtion\obj\Debug\net8.0\ref\Factorial Calculation using recurtion.dll

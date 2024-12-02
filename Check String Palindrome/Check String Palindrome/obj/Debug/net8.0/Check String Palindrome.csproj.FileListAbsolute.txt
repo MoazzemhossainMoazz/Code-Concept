@@ -1,0 +1,14 @@
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\bin\Debug\net8.0\Check String Palindrome.exe
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\bin\Debug\net8.0\Check String Palindrome.deps.json
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\bin\Debug\net8.0\Check String Palindrome.runtimeconfig.json
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\bin\Debug\net8.0\Check String Palindrome.dll
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\bin\Debug\net8.0\Check String Palindrome.pdb
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.dll
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\refint\Check String Palindrome.dll
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.pdb
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\Check String Palindrome.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\Check String Palindrome\Check String Palindrome\obj\Debug\net8.0\ref\Check String Palindrome.dll
