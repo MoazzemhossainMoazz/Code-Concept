@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn With Maruf vai\\C#\\Abstract Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}|Abstract Class\\Abstract Class.csproj|d:\\learn with maruf vai\\c#\\abstract class\\abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\Abstract Class\\Abstract Class\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Class\\Program.cs",
+              "ToolTip": "D:\\Learn With Maruf vai\\C#\\Abstract Class\\Abstract Class\\Program.cs",
+              "RelativeToolTip": "Abstract Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:34:11.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
