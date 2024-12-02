@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class", "Abstract Class\Abstract Class.csproj", "{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract Class", "Abstract Class\Abstract Class.csproj", "{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction Using an Interface", "Abstraction Using an Interface\Abstraction Using an Interface.csproj", "{87F37B02-10A0-4026-8875-1EF586AF8F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class for Payment System", "Abstract Class for Payment System\Abstract Class for Payment System.csproj", "{053C319F-6047-4FFC-86FE-B96AB9C862AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification System Using a Interface", "Notification System Using a Interface\Notification System Using a Interface.csproj", "{A944A514-E44F-4056-8CA9-9831117C648D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FEC3CD-C990-4AC0-BFAC-53FC1A4CD0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F37B02-10A0-4026-8875-1EF586AF8F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F37B02-10A0-4026-8875-1EF586AF8F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F37B02-10A0-4026-8875-1EF586AF8F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F37B02-10A0-4026-8875-1EF586AF8F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053C319F-6047-4FFC-86FE-B96AB9C862AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053C319F-6047-4FFC-86FE-B96AB9C862AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053C319F-6047-4FFC-86FE-B96AB9C862AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053C319F-6047-4FFC-86FE-B96AB9C862AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A944A514-E44F-4056-8CA9-9831117C648D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A944A514-E44F-4056-8CA9-9831117C648D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A944A514-E44F-4056-8CA9-9831117C648D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A944A514-E44F-4056-8CA9-9831117C648D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

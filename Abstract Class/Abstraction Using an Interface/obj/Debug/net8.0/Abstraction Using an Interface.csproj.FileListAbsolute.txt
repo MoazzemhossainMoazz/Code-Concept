@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.sourcelink.json
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\bin\Debug\net8.0\Abstraction Using an Interface.exe
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\bin\Debug\net8.0\Abstraction Using an Interface.deps.json
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\bin\Debug\net8.0\Abstraction Using an Interface.runtimeconfig.json
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\bin\Debug\net8.0\Abstraction Using an Interface.dll
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\bin\Debug\net8.0\Abstraction Using an Interface.pdb
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.dll
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\refint\Abstraction Using an Interface.dll
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.pdb
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\Abstraction Using an Interface.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\Abstract Class\Abstraction Using an Interface\obj\Debug\net8.0\ref\Abstraction Using an Interface.dll

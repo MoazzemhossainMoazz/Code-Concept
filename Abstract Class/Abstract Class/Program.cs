@@ -1,8 +1,12 @@
 ﻿//Abstact class
+using System.Runtime.InteropServices;
+
 abstract class Animal
 {
     //Abstract method(no impliment)
     public abstract void MakeSound();
+    public abstract void Color();
+   
 
     //Regular method(has implimentation)
     public void Sleep()
@@ -18,6 +22,11 @@ abstract class Animal
         {
             Console.WriteLine("Dog barks");
         }
+        public override void Color()
+        {
+            Console.WriteLine("Black");
+        }
+        
     }
 
     class Cat : Animal
@@ -27,6 +36,11 @@ abstract class Animal
         {
             Console.WriteLine("Cat mew");
         }
+        public override void Color()
+        {
+            Console.WriteLine("White");
+        }
+
     }
 
     //Using the classes
@@ -37,10 +51,14 @@ abstract class Animal
             Animal myDog = new Dog();
             myDog.MakeSound();
             myDog.Sleep();
+            myDog.Color();
 
             Animal myCat = new Cat();
             myCat.MakeSound();
             myCat.Sleep();
+            myCat.Color();
         }
     }
 }
+
+
