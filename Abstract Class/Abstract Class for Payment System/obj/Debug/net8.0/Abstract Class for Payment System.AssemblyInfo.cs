@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstract Class for Payment System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aacf5f83884b80813aa436f3ae853ec8ba037013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38163075a155b73e6577a7df14b51aca5269a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstract Class for Payment System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstract Class for Payment System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

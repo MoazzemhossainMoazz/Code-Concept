@@ -26,8 +26,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Payment newCreditPayment = new CreditCardPayment();
-        Payment newPaypalPayment = new PayPalPayment();
+        CreditCardPayment newCreditPayment = new CreditCardPayment();
+        PayPalPayment newPaypalPayment = new PayPalPayment();
 
         newCreditPayment.ProcessPayment(100.3);
         newCreditPayment.PrintReceipt();

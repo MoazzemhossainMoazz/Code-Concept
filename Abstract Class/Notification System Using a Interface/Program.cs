@@ -30,8 +30,11 @@ class Program
     static void Main(string[] args)
     {
         INotification newSMS = new SMSNotification();
+        //SMSNotification newSMS = new SMSNotification();
         INotification newEmail = new EmailNotification();
+        //EmailNotification newEmail = new EmailNotification();
         INotification newPush = new PushNotification();
+        //PushNotification newPush = new PushNotification();
 
         newSMS.SendNotification("Your order has been shipped!");
         newEmail.SendNotification("Welcome to our service!");
