@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\bin\Debug\net8.0\Overriding and Polymorphism.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\bin\Debug\net8.0\Overriding and Polymorphism.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\bin\Debug\net8.0\Overriding and Polymorphism.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\bin\Debug\net8.0\Overriding and Polymorphism.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\bin\Debug\net8.0\Overriding and Polymorphism.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\refint\Overriding and Polymorphism.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\Overriding and Polymorphism.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Voerriding and Polymorphism\obj\Debug\net8.0\ref\Overriding and Polymorphism.dll

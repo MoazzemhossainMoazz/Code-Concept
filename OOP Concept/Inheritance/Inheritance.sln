@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single Inheritance", "Single Inheritance\Single Inheritance.csproj", "{06291763-401F-41AF-A0B6-D92D811312FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilevel Inheritance", "Multilevel Inheritance\Multilevel Inheritance.csproj", "{0E2CD4AC-7867-4EAC-A39A-3479BE584C46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilevel Inheritance", "Multilevel Inheritance\Multilevel Inheritance.csproj", "{0E2CD4AC-7867-4EAC-A39A-3479BE584C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchical Inheritance", "Hierarchical Inheritance\Hierarchical Inheritance.csproj", "{675C7D27-377B-49F8-8709-2D4BBB92BF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hierarchical Inheritance", "Hierarchical Inheritance\Hierarchical Inheritance.csproj", "{675C7D27-377B-49F8-8709-2D4BBB92BF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding and Polymorphism", "Voerriding and Polymorphism\Overriding and Polymorphism.csproj", "{4557B6A1-E9EB-4951-8BB2-8A3F70546F02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{675C7D27-377B-49F8-8709-2D4BBB92BF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{675C7D27-377B-49F8-8709-2D4BBB92BF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{675C7D27-377B-49F8-8709-2D4BBB92BF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4557B6A1-E9EB-4951-8BB2-8A3F70546F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4557B6A1-E9EB-4951-8BB2-8A3F70546F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4557B6A1-E9EB-4951-8BB2-8A3F70546F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4557B6A1-E9EB-4951-8BB2-8A3F70546F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
