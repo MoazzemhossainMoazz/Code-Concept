@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\refint\Single Inheritance.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Inheritance\Single Inheritance\obj\Debug\net8.0\ref\Single Inheritance.dll
