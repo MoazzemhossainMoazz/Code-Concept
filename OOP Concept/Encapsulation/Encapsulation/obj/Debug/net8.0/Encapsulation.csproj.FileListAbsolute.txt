@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
