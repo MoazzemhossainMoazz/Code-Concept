@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\bin\Debug\net8.0\Read Only Property.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\bin\Debug\net8.0\Read Only Property.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\bin\Debug\net8.0\Read Only Property.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\bin\Debug\net8.0\Read Only Property.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\bin\Debug\net8.0\Read Only Property.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\refint\Read Only Property.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\Read Only Property.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Read Only Property\obj\Debug\net8.0\ref\Read Only Property.dll
