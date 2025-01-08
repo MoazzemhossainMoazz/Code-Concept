@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{7D6AD177-16C5-4B21-A0DD-F5E7C49E9DB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read Only Property", "Read Only Property\Read Only Property.csproj", "{66FE0BE6-EA00-4650-8F51-659FEC927706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read Only Property", "Read Only Property\Read Only Property.csproj", "{66FE0BE6-EA00-4650-8F51-659FEC927706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation with methods", "Encapsulation with methods\Encapsulation with methods.csproj", "{397B9B6D-5407-4971-9A98-74BF07750E44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{66FE0BE6-EA00-4650-8F51-659FEC927706}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FE0BE6-EA00-4650-8F51-659FEC927706}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FE0BE6-EA00-4650-8F51-659FEC927706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397B9B6D-5407-4971-9A98-74BF07750E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397B9B6D-5407-4971-9A98-74BF07750E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397B9B6D-5407-4971-9A98-74BF07750E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397B9B6D-5407-4971-9A98-74BF07750E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

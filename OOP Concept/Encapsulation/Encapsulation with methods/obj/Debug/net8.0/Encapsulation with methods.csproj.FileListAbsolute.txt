@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\bin\Debug\net8.0\Encapsulation with methods.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\bin\Debug\net8.0\Encapsulation with methods.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\bin\Debug\net8.0\Encapsulation with methods.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\bin\Debug\net8.0\Encapsulation with methods.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\bin\Debug\net8.0\Encapsulation with methods.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\refint\Encapsulation with methods.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\Encapsulation with methods.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with methods\obj\Debug\net8.0\ref\Encapsulation with methods.dll
