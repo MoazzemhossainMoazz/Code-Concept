@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Encapsulation with private set/1.0.0": {
+        "runtime": {
+          "Encapsulation with private set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation with private set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Encapsulation with methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cca9f33520c7626880bd842405465cb2045cf44e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+426ba0aaeef1b1e87a7956bdebd4eb198ab05503")]
 [assembly: System.Reflection.AssemblyProductAttribute("Encapsulation with methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Encapsulation with methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

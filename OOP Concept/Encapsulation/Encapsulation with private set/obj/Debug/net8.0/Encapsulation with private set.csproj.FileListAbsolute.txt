@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\bin\Debug\net8.0\Encapsulation with private set.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\bin\Debug\net8.0\Encapsulation with private set.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\bin\Debug\net8.0\Encapsulation with private set.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\bin\Debug\net8.0\Encapsulation with private set.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\bin\Debug\net8.0\Encapsulation with private set.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\refint\Encapsulation with private set.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\Encapsulation with private set.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Encapsulation with private set\obj\Debug\net8.0\ref\Encapsulation with private set.dll

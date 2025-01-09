@@ -1,0 +1,15 @@
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\bin\Debug\net8.0\Constructor to Enforce Encapsulation.exe
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\bin\Debug\net8.0\Constructor to Enforce Encapsulation.deps.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\bin\Debug\net8.0\Constructor to Enforce Encapsulation.runtimeconfig.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\bin\Debug\net8.0\Constructor to Enforce Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\bin\Debug\net8.0\Constructor to Enforce Encapsulation.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.AssemblyInfoInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.AssemblyInfo.cs
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.csproj.CoreCompileInputs.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.sourcelink.json
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\refint\Constructor to Enforce Encapsulation.dll
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.pdb
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\Constructor to Enforce Encapsulation.genruntimeconfig.cache
+D:\Learn With Maruf vai\C#\OOP Concept\Encapsulation\Constructor to Enforce Encapsulation\obj\Debug\net8.0\ref\Constructor to Enforce Encapsulation.dll
