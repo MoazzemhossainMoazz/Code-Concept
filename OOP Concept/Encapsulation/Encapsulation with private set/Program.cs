@@ -1,6 +1,6 @@
 ﻿class Student
 {
-    public string Name { get; private set; }
+    public string Name { get; private set; } //Read only
     public Student(string name)
     {
         Name = name;
