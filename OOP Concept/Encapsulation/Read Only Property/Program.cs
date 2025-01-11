@@ -7,7 +7,7 @@
     }
     public double Area
     {
-        get { return Math.PI * radius * radius; }
+        get { return Math.PI * radius * radius; }  //Read only
     }
 }
 
