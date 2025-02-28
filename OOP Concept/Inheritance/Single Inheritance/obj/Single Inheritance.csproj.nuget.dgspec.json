@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj",
         "projectName": "Single Inheritance",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\Single Inheritance.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Single Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

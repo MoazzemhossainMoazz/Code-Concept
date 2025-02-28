@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
         "projectName": "Encapsulation",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

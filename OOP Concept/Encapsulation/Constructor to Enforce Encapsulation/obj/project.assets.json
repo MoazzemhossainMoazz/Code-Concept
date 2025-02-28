@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj",
       "projectName": "Constructor to Enforce Encapsulation",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

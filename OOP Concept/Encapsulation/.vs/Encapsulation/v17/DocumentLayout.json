@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\",
+  "WorkspaceRootPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66FE0BE6-EA00-4650-8F51-659FEC927706}|Read Only Property\\Read Only Property.csproj|d:\\learn with maruf vai\\c#\\oop concept\\encapsulation\\read only property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66FE0BE6-EA00-4650-8F51-659FEC927706}|Read Only Property\\Read Only Property.csproj|solutionrelative:read only property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91568347-2CBA-4C78-8616-43CF4721B3E2}|Encapsulation with private set\\Encapsulation with private set.csproj|d:\\learn with maruf vai\\c#\\oop concept\\encapsulation\\encapsulation with private set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91568347-2CBA-4C78-8616-43CF4721B3E2}|Encapsulation with private set\\Encapsulation with private set.csproj|d:\\my work\\learn with maruf vai\\c#\\oop concept\\encapsulation\\encapsulation with private set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91568347-2CBA-4C78-8616-43CF4721B3E2}|Encapsulation with private set\\Encapsulation with private set.csproj|solutionrelative:encapsulation with private set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46D9E9DC-42E0-4F00-B8E5-BEE8E1C77498}|Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj|d:\\learn with maruf vai\\c#\\oop concept\\encapsulation\\constructor to enforce encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D9E9DC-42E0-4F00-B8E5-BEE8E1C77498}|Constructor to Enforce Encapsulation\\Constructor to Enforce Encapsulation.csproj|solutionrelative:constructor to enforce encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{397B9B6D-5407-4971-9A98-74BF07750E44}|Encapsulation with methods\\Encapsulation with methods.csproj|d:\\learn with maruf vai\\c#\\oop concept\\encapsulation\\encapsulation with methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397B9B6D-5407-4971-9A98-74BF07750E44}|Encapsulation with methods\\Encapsulation with methods.csproj|solutionrelative:encapsulation with methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D6AD177-16C5-4B21-A0DD-F5E7C49E9DB6}|Encapsulation\\Encapsulation.csproj|d:\\learn with maruf vai\\c#\\oop concept\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D6AD177-16C5-4B21-A0DD-F5E7C49E9DB6}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,65 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Program.cs",
+              "DocumentMoniker": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Program.cs",
               "RelativeDocumentMoniker": "Encapsulation with private set\\Program.cs",
-              "ToolTip": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Program.cs",
+              "ToolTip": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Program.cs",
               "RelativeToolTip": "Encapsulation with private set\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T09:15:13.137Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Constructor to Enforce Encapsulation\\Program.cs",
-              "ToolTip": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Constructor to Enforce Encapsulation\\Program.cs",
-              "RelativeToolTip": "Constructor to Enforce Encapsulation\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:09:09.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulation with methods\\Program.cs",
-              "ToolTip": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Program.cs",
-              "RelativeToolTip": "Encapsulation with methods\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:42:00.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Program.cs",
-              "RelativeDocumentMoniker": "Read Only Property\\Program.cs",
-              "ToolTip": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Program.cs",
-              "RelativeToolTip": "Read Only Property\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:43:16.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
-              "ToolTip": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation\\Program.cs",
-              "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T07:19:09.268Z"
             }
           ]
         }

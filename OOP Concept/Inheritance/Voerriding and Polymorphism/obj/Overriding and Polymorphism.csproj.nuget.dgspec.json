@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj",
         "projectName": "Overriding and Polymorphism",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\Overriding and Polymorphism.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Voerriding and Polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

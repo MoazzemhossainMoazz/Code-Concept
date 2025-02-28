@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Read Only Property.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Read Only Property.csproj",
       "projectName": "Read Only Property",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Read Only Property.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\Read Only Property.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Read Only Property\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

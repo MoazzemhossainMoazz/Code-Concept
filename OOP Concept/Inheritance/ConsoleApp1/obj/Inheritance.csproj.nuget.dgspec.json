@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Encapsulation with private set.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Encapsulation with private set.csproj",
       "projectName": "Encapsulation with private set",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Encapsulation with private set.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\Encapsulation with private set.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with private set\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

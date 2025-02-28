@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj",
         "projectName": "Polymorphism def",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\Polymorphism def.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism def\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

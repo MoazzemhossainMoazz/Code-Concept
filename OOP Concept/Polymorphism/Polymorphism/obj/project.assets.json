@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
       "projectName": "Polymorphism",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Polymorphism\\Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

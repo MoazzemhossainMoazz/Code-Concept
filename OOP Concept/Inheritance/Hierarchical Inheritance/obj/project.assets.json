@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\Hierarchical Inheritance.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\Hierarchical Inheritance.csproj",
       "projectName": "Hierarchical Inheritance",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\Hierarchical Inheritance.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\Hierarchical Inheritance.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Hierarchical Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj": {}
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj": {
+    "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj",
+        "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj",
         "projectName": "Multilevel Inheritance",
-        "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj",
+        "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\Multilevel Inheritance.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\obj\\",
+        "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Inheritance\\Multilevel Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

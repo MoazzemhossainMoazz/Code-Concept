@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Encapsulation with methods.csproj",
+      "projectUniqueName": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Encapsulation with methods.csproj",
       "projectName": "Encapsulation with methods",
-      "projectPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Encapsulation with methods.csproj",
+      "projectPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\Encapsulation with methods.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\obj\\",
+      "outputPath": "D:\\My Work\\Learn With Maruf vai\\C#\\OOP Concept\\Encapsulation\\Encapsulation with methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
